@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "Botanical Garden",
-    "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/botanical-garden.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/botanical-garden.jpg",
     "price": 200,
     "priceCurrency": "Peso", 
     "lat": 16.587755,
