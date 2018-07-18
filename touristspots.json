@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Macho Temple",
-    "imageUrl": "http://machotemple.org/wp-content/uploads/2017/07/front-a-e1499153255825.png",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
     "price": 100,
     "priceCurrency": "Peso",
     "lat": 16.621293, 
