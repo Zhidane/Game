@@ -29,29 +29,29 @@
   {
     "id": 4,
     "name": "Explore the Pindangan Ruins",
-     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/pindangan-ruins.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/pindangan-ruins.jpg",
     "price": 150,
     "priceCurrency": "Peso",  
     "lat": 16.588264,
     "lng": 120.314716
   },
   {
-    "id": 205,
-    "name": "Splendide terrasse vue imprenable",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
+    "id": 5,
+    "name": "Sit in at William the Hermit Cathedral",
+    "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/st.william-cathedral.jpg",
     "price": 115,
-    "priceCurrency": "EUR",
-    "lat": 48.881840,
-    "lng": 2.343371
+    "priceCurrency": "Peso",
+    "lat": 16.616024,  
+    "lng":  20.317517
   },
   {
-    "id": 210,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
+    "id": 6,
+    "name": "Bacsil Ridge",
+    "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/bacsil-ridge.jpg",
     "price": 135,
-    "priceCurrency": "EUR",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "priceCurrency": "Peso",  
+    "lat": 16.618340, 
+    "lng": 120.363363
   },
   {
     "id": 211,
