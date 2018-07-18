@@ -19,12 +19,12 @@
   },
     {
     "id": 3,
-    "name": "Botanical Garden",
+    "name": "Climb up Pagoda Hill",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/macho-temple.png",
     "price": 300,
     "priceCurrency": "Peso", 
-    "lat": 16.587755,
-    "lng": 120.365885
+    "lat": 16.614464,
+    "lng": 120.319203
   },
   {
     "id": 201,
