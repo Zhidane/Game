@@ -20,7 +20,7 @@
     {
     "id": 3,
     "name": "Climb up Pagoda Hill",
-    "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/botanical-garden.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/pagoda-hill.jpg",
     "price": 300,
     "priceCurrency": "Peso", 
     "lat": 16.614464,
