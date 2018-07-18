@@ -31,9 +31,9 @@
     "name": "Explore the Pindangan Ruins",
      "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/pindangan-ruins.jpg",
     "price": 150,
-    "priceCurrency": "EUR",
-    "lat": 48.885312,
-    "lng": 2.341225
+    "priceCurrency": "Peso",  
+    "lat": 16.588264,
+    "lng": 120.314716
   },
   {
     "id": 205,
