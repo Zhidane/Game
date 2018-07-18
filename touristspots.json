@@ -9,10 +9,19 @@
     "lng": 120.317813
   },
   {
-    "id": 148,
+    "id": 2,
     "name": "Botanical Garden",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/macho-temple.png",
     "price": 200,
+    "priceCurrency": "Peso", 
+    "lat": 16.587755,
+    "lng": 120.365885
+  },
+    {
+    "id": 3,
+    "name": "Botanical Garden",
+    "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/macho-temple.png",
+    "price": 300,
     "priceCurrency": "Peso", 
     "lat": 16.587755,
     "lng": 120.365885
