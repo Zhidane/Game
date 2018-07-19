@@ -1,4 +1,13 @@
 [
+   {
+    "id": 0,
+    "name": "Catbangen",
+    "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/house.jpg",
+    "price": "San Fernando La Union",
+    "priceCurrency": "Peso", 
+    "lat": 16.615107, 
+    "lng": 120.312277
+  },
   {
     "id": 1,
     "name": "Macho Temple",
