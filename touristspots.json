@@ -3,7 +3,7 @@
     "id": 0,
     "name": "Vigan",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/vigan.jpg",
-    "price": "100",
+    "price": "Place",
     "priceCurrency": "Peso",
     "lat": 17.570341, 
     "lng": 120.386406
@@ -12,7 +12,7 @@
     "id": 1,
     "name": "Pagudpud Ilocos Norte",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/pagudpud.jpg",
-    "price": 100,
+    "price": "Place",
     "priceCurrency": "Peso",
     "lat": 18.587204, 
     "lng": 120.820628
@@ -21,7 +21,7 @@
     "id": 2,
     "name": "Puerto Princesa",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/palawan.jpg",
-    "price": 200,
+    "price": "Place",
     "priceCurrency": "Peso",
     "lat": 10.033504,
     "lng": 118.719292
@@ -30,7 +30,7 @@
     "id": 3,
     "name": "Tubbataha Reef",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/tubbatahreefs.jpeg",
-    "price": 300,
+    "price": "Place",
     "priceCurrency": "Peso", 
     "lat": 8.850900,
     "lng": 119.932321
@@ -39,7 +39,7 @@
     "id": 4,
     "name": "Malapascua Island",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/malapascuaisland.jpg",
-    "price": 400,
+    "price": "Place",
     "lat": 11.335986,
     "lng": 124.115818
   },
@@ -47,7 +47,7 @@
     "id": 5,
     "name": "Puerto Princesa Underground River",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/undergroundriver.jpg",
-    "price": 500,
+    "price": "Place",
     "priceCurrency": "Peso", 
     "lat": 10.192860,  
     "lng":  118.926672
@@ -56,7 +56,7 @@
     "id": 6,
     "name": "Donsol, Sorsogon",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/donsol.jfif",
-    "price": 600,
+    "price": "Place",
     "priceCurrency": "Peso",
     "lat": 12.994497, 
     "lng": 123.553171
@@ -65,7 +65,7 @@
     "id": 7,
     "name": "Chocolate Hills",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/chocolate_hills.jpg",
-    "price": 700,
+    "price": "Place",
     "priceCurrency": "Peso",
     "lat": 9.830384,
     "lng": 124.139976
@@ -74,7 +74,7 @@
     "id": 8,
     "name": "Boracay",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/boracay.jpg",
-    "price": 800,
+    "price": "Place",
     "priceCurrency": "Peso", 
     "lat": 11.972136,
     "lng": 21.924482
@@ -83,7 +83,7 @@
     "id": 9,
     "name": "Banaue Rice Terraces",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/banaue.jpg",
-    "price": 800,
+    "price": "Place",
     "priceCurrency": "Peso",
     "lat": 16.924006,
     "lng": 121.055608
@@ -92,7 +92,7 @@
     "id": 10,
     "name": "Camiguin",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/camiguin.jpg",
-    "price": 800,
+    "price": "Place",
     "priceCurrency": "Peso",
     "lat": 9.196153,
     "lng": 124.726779
@@ -101,7 +101,7 @@
     "id": 11,
     "name": "Mount Pulag, Luzon",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/mountpulag.jfif",
-    "price": 800,
+    "price": "Place",
     "priceCurrency": "Peso",
     "lat": 16.597952,
     "lng": 1120.899295
@@ -110,7 +110,7 @@
     "id": 12,
     "name": "Langun Gobingob Caves in Samar",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/langun.jfif",
-    "price": 800,
+    "price": "Place",
     "priceCurrency": "Peso",
     "lat": 11.932542,
     "lng": 125.038838
