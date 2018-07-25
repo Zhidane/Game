@@ -12,7 +12,7 @@
     "id": 2,
     "name": "Vigan",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/vigan.jpg",
-    "price": "Place",
+    "price": "107.22 km (66.62 mi)",
     "priceCurrency": "Peso",
     "lat": 17.570341, 
     "lng": 120.386406
@@ -21,7 +21,7 @@
     "id": 3,
     "name": "Pagudpud Ilocos Norte",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/pagudpud.jpg",
-    "price": "Place",
+    "price": "226.11 km (140.50 mi)",
     "priceCurrency": "Peso",
     "lat": 18.587204, 
     "lng": 120.820628
@@ -30,7 +30,7 @@
     "id": 4,
     "name": "Puerto Princesa",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/palawan.jpg",
-    "price": "Place",
+    "price": "823.12 km (511.46 mi)",
     "priceCurrency": "Peso",
     "lat": 10.033504,
     "lng": 118.719292
@@ -39,7 +39,7 @@
     "id": 5,
     "name": "Tubbataha Reef",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/tubbatahreefs.jpeg",
-    "price": "Place",
+    "price": "864.33 km (537.07 mi)",
     "priceCurrency": "Peso", 
     "lat": 8.850900,
     "lng": 119.932321
@@ -48,7 +48,7 @@
     "id": 6,
     "name": "Malapascua Island",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/malapascuaisland.jpg",
-    "price": "Place",
+    "price": "714.27 km (443.83 mi)",
     "lat": 11.335986,
     "lng": 124.115818
   },
@@ -56,7 +56,7 @@
     "id": 7,
     "name": "Puerto Princesa Underground River",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/undergroundriver.jpg",
-    "price": "Place",
+    "price": "740.49 km (460.12 mi)",
     "priceCurrency": "Peso", 
     "lat": 10.192860,  
     "lng":  118.926672
@@ -65,7 +65,7 @@
     "id": 8,
     "name": "Donsol, Sorsogon",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/donsol.jfif",
-    "price": "Place",
+    "price": "522.71 km (324.80 mi)",
     "priceCurrency": "Peso",
     "lat": 12.994497, 
     "lng": 123.553171
@@ -74,7 +74,7 @@
     "id": 9,
     "name": "Chocolate Hills",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/chocolate_hills.jpg",
-    "price": "Place",
+    "price": "857.68 km (532.94 mi)",
     "priceCurrency": "Peso",
     "lat": 9.830384,
     "lng": 124.139976
@@ -83,7 +83,7 @@
     "id": 10,
     "name": "Boracay",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/boracay.jpg",
-    "price": "Place",
+    "price": "543.90 km (337.97 mi)",
     "priceCurrency": "Peso", 
     "lat": 11.972136,
     "lng": 21.924482
@@ -92,7 +92,7 @@
     "id": 11,
     "name": "Banaue Rice Terraces",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/banaue.jpg",
-    "price": "Place",
+    "price": "74.85 km (46.51 mi)",
     "priceCurrency": "Peso",
     "lat": 16.924006,
     "lng": 121.055608
@@ -101,7 +101,7 @@
     "id": 12,
     "name": "Camiguin",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/camiguin.jpg",
-    "price": "Place",
+    "price": "959.28 km (596.07 mi)",
     "priceCurrency": "Peso",
     "lat": 9.196153,
     "lng": 124.726779
@@ -110,7 +110,7 @@
     "id": 13,
     "name": "Mount Pulag, Luzon",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/mountpulag.jfif",
-    "price": "Place",
+    "price": "54.91 km (34.12 mi)",
     "priceCurrency": "Peso",
     "lat": 16.597952,
     "lng": 1120.899295
@@ -119,7 +119,7 @@
     "id": 14,
     "name": "Langun Gobingob Caves in Samar",
     "imageUrl": "https://raw.githubusercontent.com/Zhidane/Game/master/langun.jpg",
-    "price": "Place",
+    "price": "720.97 km (447.99 mi)",
     "priceCurrency": "Peso",
     "lat": 11.932542,
     "lng": 125.038838
